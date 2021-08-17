@@ -1,0 +1,10 @@
+Hello world!
+Hello again
+Hello... not again!
+<<<<<<< HEAD
+a change, hope no one did anything when I was gone
+Problem detected: fixed
+=======
+crazy testing made
+more crazy testing, don't tell main!!
+>>>>>>> testing
