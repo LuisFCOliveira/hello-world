@@ -1,5 +1,5 @@
 Hello world!
 Hello again
 Hello... not again!
-a change, hope no one did anything when I was gone
+erased all merging conflicts and wrote this
 Problem detected: fixed
